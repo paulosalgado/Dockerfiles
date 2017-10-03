@@ -1,4 +1,4 @@
-FROM andreptb/oracle-java:6
+FROM openjdk:7-jdk
 
 # JBoss version
 ENV JBOSS_VERSION 5.1.0.GA
